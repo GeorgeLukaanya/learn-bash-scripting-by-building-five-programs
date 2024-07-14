@@ -295,3 +295,4 @@ chmod +x five.sh
 code five.sh
 ./f
 ./five.sh
+clear
