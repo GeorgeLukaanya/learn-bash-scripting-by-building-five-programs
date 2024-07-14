@@ -261,3 +261,4 @@ echo $8
 echo $*{ARR[]}
 echo $*{ARR[1]}
 echo ${ARR[*]}
+declare -p ARR
