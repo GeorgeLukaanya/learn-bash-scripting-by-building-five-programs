@@ -256,3 +256,8 @@ echo $ARR[a]
 echo ${ARR[a]}
 echo $ARR[1]
 echo ${ARR[1]}
+echo $@
+echo $8
+echo $*{ARR[]}
+echo $*{ARR[1]}
+echo ${ARR[*]}
