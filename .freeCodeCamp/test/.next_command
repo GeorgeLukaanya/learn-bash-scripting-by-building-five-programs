@@ -296,3 +296,4 @@ code five.sh
 ./f
 ./five.sh
 clear
+./five.sh
