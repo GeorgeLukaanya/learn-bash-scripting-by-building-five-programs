@@ -63,3 +63,4 @@ ls --color=auto
 clear
 ls --color=auto
 ./questionnaire.sh
+ls --color=auto -l
