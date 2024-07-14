@@ -158,3 +158,4 @@ help sleep
 man sleep
 sleep --help
 sleep 3
+./countdown.sh 3
