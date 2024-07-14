@@ -58,3 +58,8 @@ code questionnaire.sh
 sh questionnaire.sh
 bash questionnaire.sh
 which bash
+ls --color=auto
+./.questionnaire.sh
+clear
+ls --color=auto
+./questionnaire.sh
