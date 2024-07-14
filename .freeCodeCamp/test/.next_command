@@ -56,3 +56,4 @@ echo hello bash
 touch questionnaire.sh
 code questionnaire.sh
 sh questionnaire.sh
+bash questionnaire.sh
